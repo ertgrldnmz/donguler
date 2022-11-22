@@ -1,3 +1,4 @@
+[www.patika.dev](https://www.patika.dev/tr)
 # Döngüler
 ### For Döngüsü
 Örnek bir for döngüsü 2 ifade, 1 koşuldan oluşur.
